@@ -80,7 +80,7 @@ p {
 }
 
 .first-image-keyboard {
-  background-image: url(/mobile/image-keyboard.jpg);
+  background-image: url(./mobile/image-keyboard.jpg);
   padding: 17rem;
   background-size: cover;
   background-repeat: no-repeat;
@@ -96,7 +96,7 @@ p {
 }
 
 .phone-keyboard {
-  background-image: url(/mobile/image-phone-and-keyboard.jpg);
+  background-image: url(./mobile/image-phone-and-keyboard.jpg);
   height: 20rem;
   width: 13rem;
   background-size: cover;
@@ -112,7 +112,7 @@ p {
 }
 
 .glass-keyboard {
-  background-image: url(/mobile/image-glass-and-keyboard.jpg);
+  background-image: url(./mobile/image-glass-and-keyboard.jpg);
   width: 22rem;
   height: 20rem;
   background-size: cover;
@@ -226,13 +226,13 @@ h4 span {
   }
 
   .first-image-keyboard {
-    background-image: url(/tablet/image-keyboard.jpg);
+    background-image: url(./tablet/image-keyboard.jpg);
     width: 13rem;
     height: 8rem;
   }
 
   .phone-keyboard {
-    background-image: url(/tablet/image-phone-and-keyboard.jpg);
+    background-image: url(./tablet/image-phone-and-keyboard.jpg);
     border-radius: 3rem;
     position: relative;
     width: 22rem;
@@ -246,7 +246,7 @@ h4 span {
   }
 
   .glass-keyboard {
-    background-image: url(/tablet/image-glass-and-keyboard.jpg);
+    background-image: url(./tablet/image-glass-and-keyboard.jpg);
     width: 45rem;
     position: relative;
     right: -50px;
@@ -325,7 +325,7 @@ h4 span {
     font-size: 1.8em;
   }
   .first-image-keyboard {
-    background-image: url(/desktop/image-keyboard.jpg);
+    background-image: url(./desktop/image-keyboard.jpg);
     width: 54rem;
     height: 25.4rem;
     border-radius: 3rem;
@@ -362,13 +362,13 @@ h4 span {
   }
 
   .phone-keyboard {
-    background-image: url(/desktop/image-phone-and-keyboard.jpg);
+    background-image: url(./desktop/image-phone-and-keyboard.jpg);
     width: 25.5rem;
     height: 48rem;
   }
 
   .glass-keyboard {
-    background-image: url(/desktop/image-glass-and-keyboard.jpg);
+    background-image: url(./desktop/image-glass-and-keyboard.jpg);
     width: 44.5rem;
     height: 48rem;
   }
